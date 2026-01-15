@@ -24,4 +24,4 @@ Literally Sidestore/AltStore Sources
 
 [iSH AltStore Repo](https://ish.app/altstore.json)
 
-[EthMods (Formerly SultanMods](https://repo.ethsign.fyi)
+[EthMods(Formerly SultanMods DEPRECATED](https://repo.ethsign.fyi)
