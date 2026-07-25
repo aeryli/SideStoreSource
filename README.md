@@ -1,5 +1,7 @@
 # SideStore & AltStore Sources
 
+## Make a PR if you want to add new sources. I will most likely not be updating this repository anymore.
+
 Literally Sidestore/AltStore Sources
 
 [9Animator](https://9ani.app/api/altstore)
