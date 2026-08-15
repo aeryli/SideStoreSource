@@ -1,26 +1,24 @@
 # SideStore & AltStore Sources
 
-## Make a PR if you want to add new sources. I will most likely not be updating this repository anymore.
+Literally Sidestore Installs 
 
-Literally Sidestore/AltStore Sources
+[9Animator](sidestore://source?url=9ani.app/api/altstore)
 
-[9Animator](https://9ani.app/api/altstore)
+[AltStore Complete](sidestore://source?url=bit.ly/Altstore-complete)
 
-[AltStore Complete](https://bit.ly/Altstore-complete)
+[Burrito's AltStore](sidestore://source?url=burritosoftware.github.io/altstore/channels/burritosource.json)
 
-[Burrito's AltStore](https://burritosoftware.github.io/altstore/channels/burritosource.json)
+[CyPwn iPA Library](sidestore://source?url=ipa.cypwn.xyz/cypwn.json)
 
-[CyPwn iPA Library](https://ipa.cypwn.xyz/cypwn.json)
+[Omni](sidestore://source?url=raw.githubusercontent.com/Omni-Development/The-Omni-Repository/refs/heads/main/app-repo.json)
 
-[Omni](https://raw.githubusercontent.com/Omni-Development/The-Omni-Repository/refs/heads/main/app-repo.json)
+[Qn_'s AltStore Repo](sidestore://source?url=https://bit.ly/40Isul6)
 
-[Qn_'s AltStore Repo](https://bit.ly/40Isul6)
+[Quantum V2 (Tweaks, Free Streaming, Cracked, etc)](sidestore://source?url=quarksources.github.io/dist/quantumsource%2B%2B.min.json)
 
-[Quantum V2 (Tweaks, Free Streaming, Cracked, etc)](https://quarksources.github.io/dist/quantumsource%2B%2B.min.json)
+[Quantum V1 (Emulators, Jailbreaks, utilities, and more)](sidestore://source?url=quarksources.github.io/dist/quantumsource.min.json)
 
-[Quantum V1 (Emulators, Jailbreaks, utilities, and more)](https://quarksources.github.io/dist/quantumsource.min.json)
-
-[RandomBlock](randomblock1.com/altstore/apps.json)
+[RandomBlock](sidestore://source?url=randomblock1.com/altstore/apps.json)
 
 [Wuxu's Library++](wuxu1.github.io/wuxu-complete-plus.json)
 
