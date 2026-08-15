@@ -1,6 +1,6 @@
 # SideStore & AltStore Sources
 
-Literally Sidestore/AltStore Sources
+Literally Sidestore/AltStore Sources <br>
 installers [here](aeryli.github.io/SideStoreSource/installer/)
 
 [9Animator](https://9ani.app/api/altstore)
